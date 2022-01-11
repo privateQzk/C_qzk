@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//我他妈是瞎写的 仅供参考
 #include "string.h"
 char h[100002],b[400002],e[400002];
 int main()
